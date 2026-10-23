@@ -1,0 +1,2 @@
+# 위젯 본체가 쓰는 유일한 외부 패키지 (Ubuntu/Debian은 setup.sh가 apt의 python3-pyqt6로 설치)
+PyQt6>=6.4
